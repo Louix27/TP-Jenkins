@@ -164,6 +164,6 @@ Test run finished after 26 ms
 ```
 
 
-[rapport]: intro.png
-[Exo1]: Exo1javaFreestyle.png
-[groovy]: groovy.png
+[rapport]: images/intro.png
+[Exo1]: images/Exo1javaFreestyle.png
+[groovy]: images/groovy.png
