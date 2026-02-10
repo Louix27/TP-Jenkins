@@ -37,7 +37,7 @@ fi
 
 Sortie de la console :
 
-![Capture d'écran][Exo1]
+![Capture d'écran][test1]
 
 ### Java (Pipeline Groovy)
 
@@ -167,6 +167,6 @@ Test run finished after 26 ms
 
 
 [rapport]: images/intro.png
-[Exo1]: images/Exo1javaFreestyle.png
+[test1]: images/test1.png
 [groovy]: images/groovy.png
 [fail]: images/fail.png
