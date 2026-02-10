@@ -22,7 +22,7 @@ mkdir -p build/classes
 javac -d build/classes *.java
 ```
 
-Lancement des tests (optionnel) :
+Lancement des tests:
 
 ```bash
 if [ "$RUN_TESTS" = "true" ]; then
@@ -145,7 +145,7 @@ J'ai modifié ca :
 return n + factorial(n - 1);
 ```
         
-
+Et voici ce que ça retourne
 
 ```bash
 Test run finished after 26 ms
@@ -163,7 +163,10 @@ Test run finished after 26 ms
 [         2 tests failed          ]
 ```
 
+![Capture d'écran][fail]
+
 
 [rapport]: images/intro.png
 [Exo1]: images/Exo1javaFreestyle.png
 [groovy]: images/groovy.png
+[fail]: images/fail.png
